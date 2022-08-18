@@ -1,0 +1,15 @@
+Con tus propias palabras explica los siguientes conceptos.
+
+
+
+- Callbacks
+
+- Funcionamiento de Map()
+
+- Funcionamiento de Reduce()
+
+- Funcionamiento de Filter()
+
+- Funcionamiento de forEach()
+
+- En que situacion usarias un filter?
